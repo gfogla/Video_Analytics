@@ -1,0 +1,19 @@
+
+Number of green apples : 15
+Number of Red apples : 1
+Total number of apples(image) are : 16
+Number of green apples : 15
+Number of Red apples : 1
+Total number of apples(With Salt-pepper) are : 16
+Number of green apples : 16
+Number of Red apples : 1
+Total number of apples(Without Salt-pepper) are : 17
+Number of green apples : 15
+Number of Red apples : 1
+Total number of apples(With Gaussian) are : 16
+Number of green apples : 16
+Number of Red apples : 1
+Total number of apples(Without Gaussian) are : 17
+Number of green apples : 15
+Number of Red apples : 3
+Total number of apples(Brightened Image) are : 18
